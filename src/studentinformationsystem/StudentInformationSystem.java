@@ -15,7 +15,7 @@ package studentinformationsystem;
 public class StudentInformationSystem {
 public static void main(String[] args) {
 
-    String studentName = "AhmadShafizul";
+    String studentName = "ShafizulDanial";
     String studentID = "S86220";
 
     int mark1 = 49;
