@@ -30,5 +30,14 @@ public static void main(String[] args) {
     System.out.println("Mark 1: " + mark1);
     System.out.println("Mark 2: " + mark2);
     System.out.println("Total Mark: " + total);
+    
+    if (total >= 80) {
+    System.out.println("Result: Excellent");
+} else if (total >= 50) {
+    System.out.println("Result: Good");
+} else {
+    System.out.println("Result: Needs Improvement");
+}
+    
 }
 }
